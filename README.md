@@ -1,1 +1,1 @@
-# menu-verticaal
+# menu-vertical
